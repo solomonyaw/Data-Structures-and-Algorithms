@@ -81,7 +81,8 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(317, 24);
             this.label3.TabIndex = 17;
-            this.label3.Text = "Lead Developer- Solomon Yaw Adeklo";
+            this.label3.Text = "Developer- Solomon Yaw Adeklo";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // Splashscreen
             // 

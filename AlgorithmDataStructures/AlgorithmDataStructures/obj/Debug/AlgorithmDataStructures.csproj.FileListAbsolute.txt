@@ -13,3 +13,18 @@ C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\Algor
 C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.Splashscreen.resources
 C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.StackandQueus.resources
 C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.csproj.GenerateResource.Cache
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\AlgorithmDataStructures.exe.config
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.pdb
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\AlgorithmDataStructures.exe
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\AlgorithmDataStructures.pdb
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\BinaryTree.exe
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\BinaryTree.pdb
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.MainForm.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.Properties.Resources.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.SearchingAlgorithms.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.SortingAlgorithms.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.Splashscreen.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.StackandQueus.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.csproj.GenerateResource.Cache
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.exe

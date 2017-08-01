@@ -7,3 +7,12 @@ C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\Algor
 C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.pdb
 C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Trees.resources
 C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Trees.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Solomon\Documents\GitHub\Data-Structures-and-Algorithms\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,1 @@
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe.config

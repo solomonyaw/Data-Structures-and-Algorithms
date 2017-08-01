@@ -1,0 +1,7 @@
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\bin\Debug\binaryTreeTest.exe
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\bin\Debug\binaryTreeTest.pdb
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\bin\Debug\BinaryTree.dll
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\bin\Debug\BinaryTree.pdb
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\obj\Debug\binaryTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\obj\Debug\binaryTreeTest.exe
+C:\Users\SOL\Desktop\BinaryTree\binaryTreeTest\obj\Debug\binaryTreeTest.pdb

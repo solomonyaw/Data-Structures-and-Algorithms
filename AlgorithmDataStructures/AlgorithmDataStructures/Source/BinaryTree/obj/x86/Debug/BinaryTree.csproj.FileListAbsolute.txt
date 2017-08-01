@@ -1,0 +1,12 @@
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.Form1.resources
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.Properties.Resources.resources
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.exe
+c:\users\hmojtaba\documents\visual studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\BinaryTree.pdb
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\x86\Debug\ResGen.write.1.tlog

@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{B75FA392-6E8E-47E0-8606-DC844E462C0D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binaryTreeTest", "binaryTreeTest\binaryTreeTest.csproj", "{4564FA32-6AE8-42FD-98EA-F3979F8F46D3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B75FA392-6E8E-47E0-8606-DC844E462C0D}.Debug.ActiveCfg = Debug|.NET
+		{B75FA392-6E8E-47E0-8606-DC844E462C0D}.Debug.Build.0 = Debug|.NET
+		{B75FA392-6E8E-47E0-8606-DC844E462C0D}.Release.ActiveCfg = Release|.NET
+		{B75FA392-6E8E-47E0-8606-DC844E462C0D}.Release.Build.0 = Release|.NET
+		{4564FA32-6AE8-42FD-98EA-F3979F8F46D3}.Debug.ActiveCfg = Debug|.NET
+		{4564FA32-6AE8-42FD-98EA-F3979F8F46D3}.Debug.Build.0 = Debug|.NET
+		{4564FA32-6AE8-42FD-98EA-F3979F8F46D3}.Release.ActiveCfg = Release|.NET
+		{4564FA32-6AE8-42FD-98EA-F3979F8F46D3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

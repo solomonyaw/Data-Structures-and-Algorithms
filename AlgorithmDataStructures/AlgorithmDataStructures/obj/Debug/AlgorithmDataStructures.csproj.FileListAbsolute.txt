@@ -1,0 +1,15 @@
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\AlgorithmDataStructures.exe.config
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.exe
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.pdb
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\AlgorithmDataStructures.exe
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\AlgorithmDataStructures.pdb
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\BinaryTree.exe
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\BinaryTree.pdb
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.MainForm.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.Properties.Resources.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.SearchingAlgorithms.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.SortingAlgorithms.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.Splashscreen.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.StackandQueus.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\AlgorithmDataStructures.csproj.GenerateResource.Cache

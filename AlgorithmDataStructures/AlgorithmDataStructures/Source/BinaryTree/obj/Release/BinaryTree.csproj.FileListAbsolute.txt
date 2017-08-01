@@ -1,0 +1,19 @@
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe.config
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.exe
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\bin\Release\BinaryTree.pdb
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\BinaryTree.Form1.resources
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\BinaryTree.Properties.Resources.resources
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\ResGen.read.1.tlog
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\ResGen.write.1.tlog
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\BinaryTree.exe
+C:\Users\hmojtaba\Documents\Visual Studio 2010\Projects\BinaryTree\BinaryTree\obj\Release\BinaryTree.pdb
+C:\Users\SOL\Desktop\Source\BinaryTree\bin\Release\BinaryTree.exe.config
+C:\Users\SOL\Desktop\Source\BinaryTree\obj\Release\BinaryTree.exe
+C:\Users\SOL\Desktop\Source\BinaryTree\obj\Release\BinaryTree.pdb
+C:\Users\SOL\Desktop\Source\BinaryTree\bin\Release\BinaryTree.exe
+C:\Users\SOL\Desktop\Source\BinaryTree\bin\Release\BinaryTree.pdb
+C:\Users\SOL\Desktop\Source\BinaryTree\obj\Release\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\SOL\Desktop\Source\BinaryTree\obj\Release\BinaryTree.Form1.resources
+C:\Users\SOL\Desktop\Source\BinaryTree\obj\Release\BinaryTree.Properties.Resources.resources
+C:\Users\SOL\Desktop\Source\BinaryTree\obj\Release\BinaryTree.csproj.GenerateResource.Cache

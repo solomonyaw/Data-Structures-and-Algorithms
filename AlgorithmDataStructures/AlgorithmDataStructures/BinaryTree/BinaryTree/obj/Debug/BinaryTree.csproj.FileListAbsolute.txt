@@ -1,0 +1,5 @@
+C:\Users\SOL\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\SOL\Desktop\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\SOL\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\SOL\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\SOL\Desktop\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
